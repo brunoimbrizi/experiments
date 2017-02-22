@@ -1,0 +1,27 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "Experiment",
+			// "cmd": "toaster.cmd -c",
+			"path": "/usr/local/bin/",
+			"cmd": ["toaster", "-c"],
+			"working_dir": "${project_path}"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "../../website"
+		}
+	],
+	"settings":
+	[
+		{
+			"translate_tabs_to_spaces": true
+		}
+	]
+}

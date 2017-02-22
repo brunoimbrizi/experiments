@@ -1,0 +1,116 @@
+[
+	{ 
+		"code": "B",
+		"name": "Bakerloo",
+		"color": "0xAE6118",
+		"branches":
+		[
+			["HAW","KNT","SKT","NWM","WEM","SPK","HSD","WJN","KGN","QPK","KPK","MDV","WAR","PAD","ERB","MYB","BST","RPK","OXC","PIC","CHX","EMB","WLO","LAM","ELE"]
+		]
+	},
+	{ 
+		"code": "C",
+		"name": "Central",
+		"color": "0xE41F1F",
+		"branches":
+		[
+			["WRP","RUG","SRP","NHT","GFD","PER","HLN","NAC","EAC","WCT","SBC","HPK","NHG","QWY","LAN","MAR","BDS","OXC","TCR","HOL","CYL","STP","BNK","LST","BNG","MLE","SFD","LEY","LYS","SNB","SWF","WFD","BHL","LTN","DEB","THB","EPP"],
+			["EBY","WAC","NAC"],
+			["LYS","WAN","RED","GHL","NEP","BDE","FLP","HAI","GRH","CHG","ROD","WFD"]
+		]
+	},
+	{ 
+		"code": "D",
+		"name": "District",
+		"color": "0x007229",
+		"branches":
+		[
+			["EBY","ECM","ACT","CHP","TGR","STB","RCP","HMD","BCT","WKN","ECT","GRD","SKN","SSQ","VIC","SJP","WMS","EMB","TEM","BLF","MAN","CST","MON","THL","ALE","WCL","STG","MLE","BWR","BBB","WHM","PLW","UPK","EHM","BKG","UPY","BEC","DGE","EPK","HCH","UPB","UPM"],
+			["RMD","KEW","GUN","TGR"],
+			["OLY","ECT"],
+			["WDN","WMP","SFS","EPY","PUT","PGR","FBY","WBT","ECT"],
+			["ECT","HST","NHG","BAY","PAD","ERD"]
+		]
+	},
+	{ 
+		"code": "H",
+		"name": "Hammersmith & City",
+		"color": "0xE899A8",
+		"branches":
+		[
+			["HMS","LBG","WBP","ROA","PAD","ERD","BST","GPS","ESQ","KXX","FAR","BAR","MGT","LST","ALE","WCL","STG","MLE","BWR","BBB","WHM","PLW","UPK","EHM","BKG"]
+		]
+	},
+	{ 
+		"code": "J",
+		"name": "Jubilee",
+		"color": "0x686E72",
+		"branches":
+		[
+			["STA","CPK","QBY","KBY","WPK","NEA","DHL","WLG","KIL","WHD","FRD","SWC","SJW","BST","BDS","GPK","WMS","WLO","SWK","LON","BER","CWR","CWF","NGW","CNT","WHM","SFD"]
+		]
+	},
+	{ 
+		"code": "M",
+		"name": "Metropolitan",
+		"color": "0x893267",
+		"branches":
+		[
+			["AME","CLF"],
+			["CHM","CLF","CWD","RKY","MPK","NWD","NWH","PIN","NHR","HOH","NWP","WPK","FRD","BST","GPS","ESQ","KXX","FAR","BAR","MGT","LST","ALD"],
+			["WAT","CRX","MPK"],
+			["UXB","HDN","ICK","RUI","RUM","ETE","RLN","WHR","HOH"]
+		]
+	},
+	{ 
+		"code": "N",
+		"name": "Northern",
+		"color": "0x000100",
+		"branches":
+		[
+			["MOR","SWM","CLW","TBY","TBE","BAL","CPS","CPC","CPN","STK","OVL","KEN","WLO","EMB","CHX","LSQ","TCR","GST","WST","EUS"],
+			["KEN","ELE","BOR","LON","BNK","MGT","OLD","ANG","KXX","EUS","MCR","CTN","KTN","TPK","ARC","HIG","EFY","FYC","WFY","WSP","TOT","HBT"],
+			["EUS","CTN","CHF","BPK","HMP","GGR","BTX","HND","COL","BUR","EDG"],
+			["FYC","MHE"]
+		]
+	},
+	{ 
+		"code": "P",
+		"name": "Picadilly",
+		"color": "0x0450A1",
+		"branches":
+		[
+			["UXB","HDN","ICK","RUI","RUM","ETE","RLN","SHR","SHL","STN","ALP","PRY","NEL","ECM","ACT","TGR","HMD","BCT","ECT","GRD","SKN","KNB","HPC","GPK","PIC","LSQ","COV","HOL","RSQ","KXX","CRD","HRD","ARL","FPK","MNR","TPL","WGN","BGR","AGR","SGT","OAK","CFS"],
+			["HRV","HRC","HTX"],
+			["HRC","HRF","HTX","HNW","HNC","HNE","OST","BOS","NFD","SEL","ACT"]
+		]
+	},
+	{ 
+		"code": "V",
+		"name": "Victoria",
+		"color": "0x009FE0",
+		"branches":
+		[
+			["BRX","STK","VUX","PIM","VIC","GPK","OXC","WST","EUS","KXX","HBY","FPK","SVS","TTH","BHR","WAL"]
+		]
+	},
+	{ 
+		"code": "W",
+		"name": "Waterloo & City",
+		"color": "0x70C3CE",
+		"_branches":
+		[
+			["WLO","BNK"]
+		]
+	},
+	{ 
+		"code": "X",
+		"name": "Circle",
+		"color": "0xF8D42D",
+		"_branches":
+		[
+			["ERD","BST","GPS","ESQ","KXX","FAR","BAR","MGT","LST","ALD","THL","MON","CST","MAN","BLF","TEM","EMB","WMS","SJP","VIC","SSQ","SKN","GRD","HST","NHG","BAY","PAD","ERD"],
+			["HMS","LBG","WBP","ROA","PAD","ERD"]
+		]
+	}
+]

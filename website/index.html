@@ -1,0 +1,54 @@
+<html>
+	<head>
+		<title>bruno imbrizi : experiments</title>
+
+		<meta name="description" content="Experiments with HTML Canvas and Javascript.">
+		<meta property="og:title" content="bruno imbrizi : experiments" />
+		<meta property="og:image" content="http://brunoimbrizi.com/experiments/img/09_thumb600.gif" />
+		<meta property="og:description" content="Experiments with HTML Canvas and Javascript." />
+		<meta property="og:url" content="http://brunoimbrizi.com/experiments"/>
+
+		<link rel="icon" type="image/png" href="http://brunoimbrizi.com/experiments/img/favicon.png">
+
+		<link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<div id="overlay"></div>
+		<div id="content">
+			<iframe src=""></iframe>
+		</div>
+		<div id="ui">
+			<div id="title"><strong>brunoimbrizi</strong> experiments</div>
+			<nav id="menu"></nav>
+			<div id="info">
+				<span><strong>click:</strong> change mode <strong>C:</strong> clear</span>
+				<span><strong>click:</strong> change mode</span>
+				<span><strong>click + F:</strong> fix a point <strong>click + D:</strong> drop a point</span>
+				<span><strong>click:</strong> add <strong>click + D:</strong> remove</span>
+				<span><strong>type</strong> any character</span>
+				<span><strong>click on the triggers</strong> to change the sound</span>
+				<span><strong>left button:</strong> rotate <strong>right button:</strong> pan <strong>wheel:</strong> zoom</span>
+				<span><strong>space:</strong> play/pause <strong>left button:</strong> rotate (when paused)</span>
+				<span><strong>drag and drop</strong> an image from your desktop</span>
+				<span><strong>click and drag</strong> to rotate</span>
+			</div>
+			<div id="social"><a href="https://twitter.com/brunoimbrizi" target="_blank"><img src="img/ico-twitter.png" alt="Follow me" /></a></div>
+			<div id="loading">loading...</div>
+		</div>
+		<script data-main="js/main" src="js/require-jquery.js"></script>
+
+		<!-- Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-937722-4']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	</body>
+</html>

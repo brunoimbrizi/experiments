@@ -1,0 +1,1434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"inters",
+				"intersects"
+			],
+			[
+				"mouse",
+				"mousedown"
+			],
+			[
+				"onMou",
+				"onMouseDown"
+			],
+			[
+				"upa",
+				"updateClock"
+			],
+			[
+				"app",
+				"appGUI"
+			],
+			[
+				"time",
+				"timelines"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ena",
+				"enable"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"clock",
+				"clockCount"
+			],
+			[
+				"update",
+				"updateClock"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"do",
+				"domElement"
+			],
+			[
+				"line",
+				"lineIndex"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"label",
+				"labelCanvas"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"arrow",
+				"arrowX"
+			],
+			[
+				"rec",
+				"rectX"
+			],
+			[
+				"ease",
+				"easeInOut"
+			],
+			[
+				"arro",
+				"arrowW"
+			],
+			[
+				"en",
+				"enabled"
+			],
+			[
+				"sche",
+				"scheduleCollection"
+			],
+			[
+				"sch",
+				"scheduleCollection"
+			],
+			[
+				"branc",
+				"branchNext"
+			],
+			[
+				"curr",
+				"currStation"
+			],
+			[
+				"station",
+				"stationName"
+			],
+			[
+				"last",
+				"lastStation"
+			],
+			[
+				"bran",
+				"branchIndex"
+			],
+			[
+				"spline",
+				"splineTs"
+			],
+			[
+				"splie",
+				"splineCurves"
+			],
+			[
+				"spl",
+				"splineTs"
+			],
+			[
+				"branch",
+				"branchIndex"
+			],
+			[
+				"onTrain",
+				"onTrainStart"
+			],
+			[
+				"sp",
+				"spline"
+			],
+			[
+				"nex",
+				"nextT"
+			],
+			[
+				"spli",
+				"splineCurves"
+			],
+			[
+				"splineC",
+				"splineCurve"
+			],
+			[
+				"VEcto",
+				"Vector3"
+			],
+			[
+				"Mesh",
+				"MeshBasicMaterial"
+			],
+			[
+				"rotatio",
+				"rotationMatrix"
+			],
+			[
+				"tube",
+				"tubeMaterial"
+			],
+			[
+				"reque",
+				"requestAnimFrame"
+			],
+			[
+				"tra",
+				"train"
+			],
+			[
+				"norma",
+				"normalize"
+			],
+			[
+				"TEMP",
+				"TEMP_POS"
+			],
+			[
+				"ver",
+				"vertices"
+			],
+			[
+				"tue",
+				"tube"
+			],
+			[
+				"train",
+				"trainGeometry"
+			],
+			[
+				"model",
+				"modelB"
+			],
+			[
+				"mode",
+				"modelA"
+			],
+			[
+				"vec",
+				"vecA"
+			],
+			[
+				"sta",
+				"stations"
+			],
+			[
+				"getPo",
+				"getPositionFromMatrix"
+			],
+			[
+				"VEC",
+				"Vector3"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"firs",
+				"firstChild"
+			],
+			[
+				"fi",
+				"firstChild"
+			],
+			[
+				"grid",
+				"gridHTML"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"ad",
+				"adjustGalleryRows"
+			],
+			[
+				"slide",
+				"slideDsiplay"
+			],
+			[
+				"sq",
+				"sqs-gallery-block-grid"
+			],
+			[
+				"inte",
+				"interactiveObjects"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"offSe",
+				"offsetY"
+			],
+			[
+				"offs",
+				"offsetY"
+			],
+			[
+				"_t",
+				"_tMat"
+			],
+			[
+				"bit",
+				"beginBitmapFill"
+			],
+			[
+				"image",
+				"imageContainer"
+			],
+			[
+				"co",
+				"controls"
+			],
+			[
+				"exis",
+				"existingStations"
+			],
+			[
+				"render",
+				"renderer"
+			],
+			[
+				"lon",
+				"lonOrigin"
+			],
+			[
+				"stai",
+				"station"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"init",
+				"initPredictionSummary"
+			],
+			[
+				"re",
+				"reponse"
+			],
+			[
+				"undersc",
+				"underscore-min"
+			],
+			[
+				"decode",
+				"decodePreset"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"preset",
+				"presets"
+			],
+			[
+				"prese",
+				"presets"
+			],
+			[
+				"pres",
+				"preset"
+			],
+			[
+				"TYPE",
+				"TYPE_OFF"
+			],
+			[
+				"dista",
+				"distanceTo"
+			],
+			[
+				"audi",
+				"audioBuffer"
+			],
+			[
+				"ctx",
+				"ctxAudio"
+			],
+			[
+				"load",
+				"loadSound"
+			],
+			[
+				"blast",
+				"blastRadius"
+			],
+			[
+				"blas",
+				"blastRadius"
+			],
+			[
+				"dra",
+				"drags"
+			],
+			[
+				"wander",
+				"wanderTheta"
+			],
+			[
+				"COLOR",
+				"COLOURS"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pathLas",
+				"pathLastSegment"
+			],
+			[
+				"COLO",
+				"COLOURS_2"
+			],
+			[
+				"COL",
+				"COLOURS_0"
+			],
+			[
+				"swi",
+				"switchMode"
+			],
+			[
+				"NUM",
+				"NUM_MODES"
+			],
+			[
+				"COU",
+				"COLOURS_1"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"th",
+				"thickness"
+			],
+			[
+				"be",
+				"bezierCurveTo"
+			],
+			[
+				"mo",
+				"moveTo"
+			],
+			[
+				"DIS",
+				"DISTANCE"
+			],
+			[
+				"part",
+				"particles"
+			],
+			[
+				"ini",
+				"initParticles"
+			],
+			[
+				"getSound",
+				"getSoundName"
+			],
+			[
+				"upda",
+				"updateId"
+			],
+			[
+				"Abs",
+				"AbstractPageView"
+			],
+			[
+				"next",
+				"nextPage"
+			],
+			[
+				"current",
+				"currentPage"
+			],
+			[
+				"curre",
+				"currentStep"
+			],
+			[
+				"validate",
+				"validateDate"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"sub",
+				"subsubid"
+			],
+			[
+				"POS",
+				"POST_IDEA_SUBMIT"
+			],
+			[
+				"GET",
+				"GET_IDEA_ID"
+			],
+			[
+				"sort",
+				"sortedItems"
+			],
+			[
+				"PAGE",
+				"PAGE_HOME"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.coffee",
+			"settings":
+			{
+				"buffer_size": 1825,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/view/AppView.coffee",
+			"settings":
+			{
+				"buffer_size": 1757,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/view/AppThree.coffee",
+			"settings":
+			{
+				"buffer_size": 4384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/view/AppUI.coffee",
+			"settings":
+			{
+				"buffer_size": 5855,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/view/LineView.coffee",
+			"settings":
+			{
+				"buffer_size": 10184,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/data/AppData.coffee",
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/model/LineModel.coffee",
+			"settings":
+			{
+				"buffer_size": 2944,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/model/PlatformModel.coffee",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 21 files for \"each\"\n\nC:\\Users\\Bruno\\Dropbox\\jobs\\bruno\\experiments\\develop\\07\\src\\App.coffee:\n   54  	# Load TFL Prediction Summary\n   55  	initPredictionSummary: ->\n   56: 		app.lines.each (model, index, list) ->\n   57  			# if model.get('code') == 'H'\n   58  			if model.get('code') != 'X'\n   ..\n   67  \n   68  \n   69: 	# Start trains on each line when the Prediction Summary is available.\n   70  	# Start clock.\n   71  	onPredictionSummaryLoaded: (code) ->\n\nC:\\Users\\Bruno\\Dropbox\\jobs\\bruno\\experiments\\develop\\07\\src\\model\\LineModel.coffee:\n   36  \n   37  		# <ROOT>\n   38: 		$(data).children().children().each (index, item) =>\n   39  			# <Time>\n   40  			if item.nodeName == 'Time'\n   ..\n   51  				sN = $(item).attr('N')\n   52  				# <P>\n   53: 				$(item).children().each (p_index, p) =>\n   54  					pN = $(p).attr('N')\n   55  					# <T>\n   56: 					$(p).children().each (t_index, t) =>\n   57  						$t = $(t)\n   58  						tS = $t.attr('S')\n   ..\n   90  		\n   91  		toRemove = []\n   92: 		parsed.trains.each (train) ->\n   93  			scheduleCollection = train.get('schedule')\n   94  	\n\nC:\\Users\\Bruno\\Dropbox\\jobs\\bruno\\experiments\\develop\\07\\src\\view\\AppUI.coffee:\n  180  \n  181  	onSeparateChange: =>\n  182: 		# app.stations.each (model, index, list) =>\n  183  			# if (model.get('position')) then model.get('position').z = 0\n  184  \n\nC:\\Users\\Bruno\\Dropbox\\jobs\\bruno\\experiments\\develop\\07\\src\\view\\LineView.coffee:\n   51  \n   52  		for branch in @branches\n   53: 			# a spline array for each branch\n   54  			spline = []\n   55  			@splines.push(spline)\n   ..\n  181  \n  182  		trainCollection = @model.get('trains')\n  183: 		trainCollection.each (model, index, list) =>\n  184  			# if (index != 21) then return\n  185  			train = new TrainView(@container, model, @color)\n  ...\n  196  \n  197  			scheduleCollection = model.get('schedule')\n  198: 			scheduleCollection.each (model, index, list) =>\n  199  \n  200  				curr = model\n\n10 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 1973,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/index.html",
+			"settings":
+			{
+				"buffer_size": 3102,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Experiment",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/src/collection",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/src/data",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/src/model",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/json"
+	],
+	"file_history":
+	[
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/js/libs/sketch.min.js",
+		"/C/Users/Bruno/Dropbox/experiments/62 Science Museum/62 Science Museum.sublime-project",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/src/view/AppThree.coffee",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/toaster.coffee",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/js/social.js",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/src/data/GUIData.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/sounds/02 - One Inch Man_02.txt",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/sounds/02 - One Inch Man_02.clt",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/sounds/02 - One Inch Man_02.rtf",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/sounds/02 - One Inch Man_02.pkf",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/headers.php",
+		"/C/Users/bruno/Dropbox/jobs/bruno/experiments/develop/07/src/data/AppData.coffee",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/07/Experiments 07.sublime-project",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/index.html",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/03/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/07/src/view/AppUI.coffee",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/06/index.html",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/05/index.html",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/04/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/06/index.html",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/01/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/07/js/libs/Detector.js",
+		"/C/Users/Bruno/Documents/jobs/bruno/v8/prototypes/01/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/07/src/collection/StationCollection.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/07/src/collection/TrainCollection.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/07/src/collection/LineCollection.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/07/src/collection/ScheduleCollection.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/07/toaster.coffee",
+		"/C/Users/Bruno/AppData/Roaming/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/view/AppThree.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/view/AppUI.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/bin/json/stations.json",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/bin/json/lines.json",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/CakeFile",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/scripts/coffee.bat",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/toaster.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/05/js/main.js",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/04/js/main.js",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/03/js/main.js",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/view/LineView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/data/AppData.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/bin/js/main.js",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/AppGUI.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/view/AppThreeView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/utils/AppUtils.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/model/LineModel.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/AppData.coffee",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/v8/prototypes/01/index.html",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/v8/prototypes/01/css/video.css",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/view/TrainView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/view/LabelView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/StringUtils.coffee",
+		"/C/Users/Bruno/Dropbox/com/brunoimbrizi/utils/StringUtils.as",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/index.php",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/bin/xml/W.xml",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/tools/parser/bin/assets/Station depths.csv",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/tools/parser/bin/assets/Station Lat Long.csv",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/docs/Station depths.xlsx",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/docs/Station Lat Long.csv",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/data/xml/load_config.xml",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/data/json/powerups.json",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/tests/01/index.html",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/bin/php/proxy.php",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/data/json/nodes.json",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/tests/03/_index.html",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/tools/parser/bin/output/stations.json",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/develop/src/model/ScheduleModel.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/docs/tween branches.txt",
+		"/C/Users/Bruno/Dropbox/experiments/51 Tube/docs/tween branches",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/tests/01/index.html",
+		"/C/Users/Bruno/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Bruno/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Bruno/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/data/json/environments.json",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/data/json/powerups.json",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/data/json/nodes.json",
+		"/C/Users/bruno/AppData/Roaming/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/bruno/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/src/view/TrainView.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/src/model/StationModel.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/src/AppData.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/bin/js/libs/Raycaster.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/philips/svn/trunk/website/prototypes/05/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/philips/svn/trunk/website/prototypes/05/js/jquery.scale9grid-0.9.3.js",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/bin/json/lines.json",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/bin/json/stations.json",
+		"/C/Users/brunoimbrizi/Desktop/stations.json",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/bin/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/styles/base.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/site.region",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/scripts/site.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/svn/trunk/website/css/style.css",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/svn/trunk/website/videos.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/svn/trunk/website/css/grid.css",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/svn/trunk/website/js/config.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/svn/trunk/website/css/ie8.css",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/svn/trunk/website/js/forms.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/collections/blog.list",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/collections/blog.item",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/fonts/bebas-neue-fontfacekit/stylesheet.css",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/fonts/bebas-neue-fontfacekit/demo.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/blocks/navigation.block",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/template.conf",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/zesty/staging/videos.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/pages/readme.md",
+		"/C/Users/brunoimbrizi/Documents/jobs/2013/natalia troitskaya/git/template/assets/readme.md",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/src/view/AppView.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/51 Tube/develop/src/App.coffee",
+		"/C/Users/bruno/Dropbox/jobs/bruno/experiments/develop/05/src/Boid.coffee",
+		"/C/Users/bruno/Documents/experiments/52 Texture Mapping/index.html",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/src/model/LineModel.coffee",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/toaster.coffee",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/bin/webgl_lines_splines.html",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/src/collection/TrainCollection.coffee",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/src/collection/StationCollection.coffee",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/src/collection/ScheduleCollection.coffee",
+		"/C/Users/bruno/Dropbox/experiments/51 Tube/develop/src/collection/LineCollection.coffee",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/develop/bin/webgl_geometry_extrude_splines.html",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/develop/src/model/LineModel.coffee",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/docs/data model.txt",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/develop/bin/json/stations.json",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/develop/bin/webgl_lines_splines.html",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/47 Three.js Getting Started/src/App.coffee",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/docs/Stations.kml",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/develop/src/collection/ScheduleCollection.coffee",
+		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/develop/src/model/TrainModel.coffee"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Bruno\\Dropbox\\jobs\\bruno\\experiments\\develop\\07\\src",
+			"<project>",
+			"*.coffee",
+			"",
+			"C:\\Users\\brunoimbrizi\\Documents\\My Dropbox\\experiments\\51 Tube\\develop\\src",
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2013\\zesty\\svn\\trunk\\website\\js",
+			"",
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2012\\nissan\\svn\\trunk\\project\\develop\\src\\coffee",
+			"C:\\Users\\brunoimbrizi\\Documents\\utils\\Quake2\\chaos",
+			"",
+			"C:\\Users\\brunoimbrizi\\Documents\\My Dropbox\\coffee\\dgw",
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2012\\nissan\\Test_Coffee",
+			"C:\\Users\\bruno\\Desktop\\Test Coffee\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"each",
+			"controls",
+			"controls.en",
+			"controls",
+			"station =",
+			"station",
+			"selectedMat",
+			"@mouse",
+			"selectedMatrix",
+			"detector",
+			"mercator",
+			"initInter",
+			"stats",
+			"MathUtils",
+			"sketch",
+			"generateArcs",
+			"mode",
+			"speed",
+			"TRAIN_SPEED",
+			"10",
+			"gui",
+			"src=\"//",
+			"LineCollection",
+			"model.",
+			"traincollection",
+			"linecollection",
+			"model.",
+			"lines",
+			"initClock",
+			"width",
+			"toggleLabel",
+			"appGUI",
+			"@mouse",
+			"@lines",
+			"getTrainLastStation",
+			"AppData.getTrainLastStation",
+			"AppData.getTrainLocationValue",
+			"mercatorEncode",
+			"getSeconds",
+			"data",
+			"AppData",
+			"app.",
+			"app",
+			"App",
+			"app",
+			"onmousedown",
+			"initClock",
+			"controller",
+			"return",
+			".show()",
+			".hide",
+			"new trainView",
+			"stats",
+			"hide()",
+			"erd",
+			"pad",
+			"blf",
+			"controls",
+			"MathUtils",
+			"name",
+			"initLines",
+			"TweenMax",
+			"rect",
+			"imgPos",
+			"arrow.x",
+			"rect.y",
+			"rect.x",
+			"\\",
+			"enabled",
+			"gui",
+			"splines",
+			" ###",
+			"### ",
+			"###",
+			"thl",
+			"shepherds",
+			"RegEx",
+			"appdata",
+			"string",
+			"AppData",
+			"train.t",
+			"console",
+			"src=\"http://cdnjs.cloudflare.com/ajax/libs/",
+			"splineCurves",
+			"splines",
+			"branch[j]",
+			"tube",
+			"ctrl+q",
+			"ctrl+shift+d",
+			"ctrl+d",
+			"controls",
+			"camera",
+			"spheres",
+			"A",
+			"$.browser",
+			"selectedMatrix",
+			"intersected",
+			"selected",
+			"@selected",
+			"selected",
+			"consol",
+			"projector",
+			"getPosition()",
+			"grid",
+			"video",
+			".hide()",
+			"show",
+			"friends",
+			"hide(",
+			"hide)",
+			"friends",
+			"fbonconnect",
+			"friends",
+			"fbOnConnect",
+			"friends",
+			"dropdown",
+			"dropdown friends",
+			"100%",
+			"90%",
+			"h3",
+			"slideDsiplay",
+			"form",
+			"published",
+			"document.getElementById('label')",
+			"@sketch",
+			"Document",
+			"wimbled",
+			"kensin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"http://",
+			"@three.lines",
+			"AppUtils.getTrainLocationValue",
+			"main.",
+			"box",
+			"sketch",
+			"",
+			"@container",
+			"targetRotationDown",
+			"mouseDownX",
+			"maph",
+			"mapw",
+			"cy",
+			"cx",
+			"$1 $2 $3",
+			"$1 $2",
+			"$1 == $2",
+			"$1",
+			"\"code\"",
+			"\"lat\": ",
+			"\"lat\":",
+			"},",
+			"\"",
+			"'",
+			"AppData."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1030,
+								1167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/view/AppView.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/view/AppThree.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3609,
+								3609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2219.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/view/AppUI.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2177,
+								2223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1230.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/view/LineView.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/data/AppData.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/model/LineModel.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1063.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/model/PlatformModel.coffee",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1973,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										195,
+										199
+									],
+									[
+										350,
+										354
+									],
+									[
+										621,
+										625
+									],
+									[
+										786,
+										790
+									],
+									[
+										885,
+										889
+									],
+									[
+										1022,
+										1026
+									],
+									[
+										1242,
+										1246
+									],
+									[
+										1507,
+										1511
+									],
+									[
+										1660,
+										1664
+									],
+									[
+										1885,
+										1889
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								220,
+								200
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Experiment",
+	"project": "Experiments 07.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

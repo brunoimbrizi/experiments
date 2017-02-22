@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"COLO",
+				"COLOURS_2"
+			],
+			[
+				"COL",
+				"COLOURS_0"
+			],
+			[
+				"swi",
+				"switchMode"
+			],
+			[
+				"NUM",
+				"NUM_MODES"
+			],
+			[
+				"COU",
+				"COLOURS_1"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"th",
+				"thickness"
+			],
+			[
+				"be",
+				"bezierCurveTo"
+			],
+			[
+				"mo",
+				"moveTo"
+			],
+			[
+				"DIS",
+				"DISTANCE"
+			],
+			[
+				"part",
+				"particles"
+			],
+			[
+				"ini",
+				"initParticles"
+			],
+			[
+				"getSound",
+				"getSoundName"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"update",
+				"updateSubid"
+			],
+			[
+				"upda",
+				"updateId"
+			],
+			[
+				"Abs",
+				"AbstractPageView"
+			],
+			[
+				"next",
+				"nextPage"
+			],
+			[
+				"current",
+				"currentPage"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"curre",
+				"currentStep"
+			],
+			[
+				"validate",
+				"validateDate"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"sub",
+				"subsubid"
+			],
+			[
+				"POS",
+				"POST_IDEA_SUBMIT"
+			],
+			[
+				"GET",
+				"GET_IDEA_ID"
+			],
+			[
+				"sort",
+				"sortedItems"
+			],
+			[
+				"nex",
+				"nextPage"
+			],
+			[
+				"PAGE",
+				"PAGE_HOME"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/01/index.html",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/App.coffee",
+			"settings":
+			{
+				"buffer_size": 6010,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/css/style.css",
+			"settings":
+			{
+				"buffer_size": 2024,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Experiment",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/index.html",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/04/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/01/js/TimelineMax.min.js",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/develop/01/src/App.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/01/js/TweenLite.min.js",
+		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/01/scripts/coffee.bat",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/01/index.html",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/develop/bin/index.html",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/index.html",
+		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/01/js/plugins/ColorPropsPlugin.min.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/01/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/03/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/02/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/tropicana/svn/trunk/website/proxy_nomem.php",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/03/Experiments 03.sublime-project",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/45 Sketch.js Ribbon/src/App.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/01/js/main.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/01/src/App.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/01/scripts/coffee.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/01/Experiments 01.sublime-project",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/main/scripts/compress.bat",
+		"/C/Users/brunoimbrizi/Desktop/main.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/App.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/main/scripts/coffee.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/js/main.js",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/45 Sketch.js Ribbon/scripts/coffee.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/main/Experiments Main.sublime-project",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/45 Sketch.js Ribbon/src/__App.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/45 Sketch.js Ribbon/bin/index.html",
+		"/C/Users/brunoimbrizi/Documents/experiments/Flash/Reference/AdvancEDActionScriptAnimation/Chapter06/VerletStick.as",
+		"/C/Users/brunoimbrizi/Documents/experiments/Flash/Reference/AdvancEDActionScriptAnimation/Chapter06/VerletPoint.as",
+		"/C/Users/brunoimbrizi/Documents/experiments/45 Sketch.js Ribbon/bin/index.html",
+		"/C/Users/brunoimbrizi/Documents/experiments/45 Sketch.js Ribbon/Sketch Ribbon.sublime-project",
+		"/C/Users/brunoimbrizi/Documents/experiments/45 Sketch.js Ribbon/scripts/coffee.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/chiat svn/trunk/website/index.php",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/footer.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/scripts/coffee.sh",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/scripts/coffee.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/scripts/compress.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/AppData.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/info/InfoView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/AbstractModalView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/share/ShareView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/chiat svn/trunk/website/.htaccess",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/website/.htaccess",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/chiat svn/trunk/db/db.php",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/backgrounds.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/AppUtils.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/gallery/GalleryView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/AbstractPageView.coffee",
+		"/C/Users/brunoimbrizi/Desktop/protect.php",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/submit-innovation.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/header.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/website/js/data.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/submit/SubmitView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/contact/ContactView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/home/HomeView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/video/VideoView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/ContentView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/background/BackgroundView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/main.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/header/HeaderView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/idea/IdeaView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/optin/OptinView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/model/UserModel.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/modal/terms/TermsView.coffee",
+		"/C/Users/brunoimbrizi/Documents/utils/Quake2/chaos/server.cfg",
+		"/C/Users/brunoimbrizi/Documents/utils/Quake2/chaos/settings.cfg",
+		"/C/Users/brunoimbrizi/Documents/utils/Quake2/chaos/config.cfg",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/about/AboutView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/website/js/app.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/home.less",
+		"/C/Users/brunoimbrizi/Desktop/fancyapps-fancyBox-3a66a9b/source/jquery.fancybox.pack.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2011/keen/svn/trunk/website/static/scripts/photosharing.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2011/keen/svn/trunk/website/static/scripts/global.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2011/keen/svn/trunk/website/static/scripts/utils.js",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/less/style.less",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/Nissan.sublime-project",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/php/protected/services/IdeaService.php",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/model/InnovationModel.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/router/AppRouter.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/footer/FooterMenuView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/footer/FooterMenuItemView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/model/PageModel.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/model/ModalModel.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/AAbstractPageView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/footer/FooterView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/collection/ModalCollection.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/content/home/TestGatewayView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/view/AbstractView.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/en.xml",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/index.php",
+		"/C/Users/brunoimbrizi/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/AppEvent.coffee",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/_about/AboutView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/home/HomeView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/about/AboutView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/scripts/coffee.bat",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/AbstractPageView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/PageView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/about/AzboutView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/header/HeaderView.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/view/AppView.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/view/header/HeaderView.coffee",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/App.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/content/ContentView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/pages/PagesView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/page/PageView.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/index.html",
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/router/AppRouter.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/js/app.js",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/bruno/Desktop/coffee/App.coffee",
+		"/C/Users/bruno/Desktop/coffee/view/AppView.coffee",
+		"/C/Users/bruno/Desktop/coffee/collection/XML.coffee",
+		"/C/Users/bruno/Desktop/coffee/en.xml",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/assets/xml/text.xml",
+		"/C/Users/bruno/Desktop/coffee/view/wrapper/WrapperView.coffee",
+		"/C/Users/bruno/Documents/jobs/2011/lipton/svn/trunk/project/develop/game/src/Main.as",
+		"/C/Users/bruno/Desktop/Test Coffee/bin/index.html",
+		"/C/xampp/apache/conf/extra/httpd-userdir.conf",
+		"/C/Users/bruno/Desktop/Test Coffee/scripts/coffee.bat",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/App.coffee",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/AppStatus.coffee",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/router/AppRouter.coffee"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2012\\nissan\\svn\\trunk\\project\\develop\\src\\coffee",
+			"C:\\Users\\brunoimbrizi\\Documents\\utils\\Quake2\\chaos",
+			"",
+			"C:\\Users\\brunoimbrizi\\Documents\\My Dropbox\\coffee\\dgw",
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2012\\nissan\\Test_Coffee",
+			"C:\\Users\\bruno\\Desktop\\Test Coffee\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if parent.app then ",
+			"parent",
+			"Vec3d",
+			"ColorPropsPlugin",
+			"console.log",
+			"timeline",
+			"console",
+			"console.log",
+			"fill",
+			"mili",
+			"timeline_1",
+			"COLOURS_0",
+			"COLOURS_)",
+			"@colours",
+			"mx",
+			"mode",
+			"damp",
+			"\n			",
+			"app.user",
+			"app.inn",
+			"app.in",
+			"app.i",
+			"user =",
+			"app.inn",
+			"idea_",
+			"track",
+			"onNextClick",
+			"track",
+			"$el",
+			"super",
+			"@id",
+			"template",
+			"gallery",
+			"template",
+			"Appdata",
+			"width",
+			"onLabelTermsClick",
+			"header",
+			"contact",
+			"currentStep",
+			"email",
+			".on",
+			".off",
+			"transition",
+			"syncFacebook",
+			"onconnec",
+			"idea",
+			"zipcode",
+			"ua-",
+			"super 0.",
+			"parallaxTransition",
+			"transitionPage",
+			"name",
+			"brahma",
+			"skol",
+			"app.user.",
+			"saveUserFinal",
+			".left",
+			".</",
+			"home_title",
+			"toggleTerms",
+			".subm",
+			"desc",
+			"input",
+			"gatewa",
+			"/1",
+			"'",
+			"\"",
+			"{{",
+			"app.data",
+			"app.data.",
+			"header",
+			"BASE_PATH",
+			"trace",
+			"c:/x",
+			"c:\\x",
+			"c:\\",
+			"rewrite",
+			"onLoad",
+			"trigger",
+			"onLoaded",
+			"ASSETS_PATH",
+			"onLoaded",
+			"namevi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"'",
+			"AppData."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/01/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								907,
+								907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4540,
+								4540
+							],
+							[
+								4772,
+								4772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3929.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1862,
+								1867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 617.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Experiment",
+	"project": "Experiments 01.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

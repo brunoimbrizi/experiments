@@ -1,0 +1,882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"render",
+				"renderTarget"
+			],
+			[
+				"renderTar",
+				"renderTargetParams"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"init",
+				"initTimeline"
+			],
+			[
+				"App",
+				"AppTimeline"
+			],
+			[
+				"play",
+				"playbackTime"
+			],
+			[
+				"ligh",
+				"lightB"
+			],
+			[
+				"lib",
+				"lightB_y"
+			],
+			[
+				"lightB",
+				"lightB_y"
+			],
+			[
+				"li",
+				"lightB"
+			],
+			[
+				"lig",
+				"lightSpriteA"
+			],
+			[
+				"came",
+				"cameraZoom"
+			],
+			[
+				"camera",
+				"cameraPos0"
+			],
+			[
+				"camer",
+				"cameraPos0"
+			],
+			[
+				"pause",
+				"pausedAt"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"tot",
+				"totalWidth"
+			],
+			[
+				"scale",
+				"scaleFactor"
+			],
+			[
+				"on",
+				"onBufferProgress"
+			],
+			[
+				"en",
+				"en_GB"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"MAsk",
+				"MaskArc"
+			],
+			[
+				"seg",
+				"segments"
+			],
+			[
+				"arc",
+				"arcThickness"
+			],
+			[
+				"poi",
+				"pointLight"
+			],
+			[
+				"HA",
+				"HALF_PI"
+			],
+			[
+				"h",
+				"hvalue"
+			],
+			[
+				"segme",
+				"segmentsW"
+			],
+			[
+				"cy",
+				"cylinderMaterial"
+			],
+			[
+				"cyl",
+				"cylinderGeometry"
+			],
+			[
+				"van",
+				"vanishNum"
+			],
+			[
+				"sound",
+				"sourceNode"
+			],
+			[
+				"start",
+				"startedAt"
+			],
+			[
+				"star",
+				"startedAt"
+			],
+			[
+				"paused",
+				"pausedAt"
+			],
+			[
+				"i",
+				"iAngle"
+			],
+			[
+				"onBuf",
+				"onBufferError"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"las",
+				"lastCol"
+			],
+			[
+				"GA",
+				"GAP_WIDTH"
+			],
+			[
+				"ease",
+				"easeInOut"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"colo",
+				"colorB"
+			],
+			[
+				"color",
+				"colours"
+			],
+			[
+				"mouse",
+				"mousePressed"
+			],
+			[
+				"draw",
+				"drawLine"
+			],
+			[
+				"co",
+				"controls"
+			],
+			[
+				"exis",
+				"existingStations"
+			],
+			[
+				"lon",
+				"lonOrigin"
+			],
+			[
+				"stai",
+				"station"
+			],
+			[
+				"station",
+				"stationCode"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"re",
+				"reponse"
+			],
+			[
+				"undersc",
+				"underscore-min"
+			],
+			[
+				"decode",
+				"decodePreset"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"preset",
+				"presets"
+			],
+			[
+				"prese",
+				"presets"
+			],
+			[
+				"pres",
+				"preset"
+			],
+			[
+				"TYPE",
+				"TYPE_OFF"
+			],
+			[
+				"update",
+				"updateType"
+			],
+			[
+				"dista",
+				"distanceTo"
+			],
+			[
+				"audi",
+				"audioBuffer"
+			],
+			[
+				"ctx",
+				"ctxAudio"
+			],
+			[
+				"load",
+				"loadSound"
+			],
+			[
+				"blast",
+				"blastRadius"
+			],
+			[
+				"blas",
+				"blastRadius"
+			],
+			[
+				"dra",
+				"drags"
+			],
+			[
+				"wander",
+				"wanderTheta"
+			],
+			[
+				"COLOR",
+				"COLOURS"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pathLas",
+				"pathLastSegment"
+			],
+			[
+				"COLO",
+				"COLOURS_2"
+			],
+			[
+				"COL",
+				"COLOURS_0"
+			],
+			[
+				"swi",
+				"switchMode"
+			],
+			[
+				"NUM",
+				"NUM_MODES"
+			],
+			[
+				"COU",
+				"COLOURS_1"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"th",
+				"thickness"
+			],
+			[
+				"be",
+				"bezierCurveTo"
+			],
+			[
+				"mo",
+				"moveTo"
+			],
+			[
+				"DIS",
+				"DISTANCE"
+			],
+			[
+				"part",
+				"particles"
+			],
+			[
+				"ini",
+				"initParticles"
+			],
+			[
+				"getSound",
+				"getSoundName"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"upda",
+				"updateId"
+			],
+			[
+				"Abs",
+				"AbstractPageView"
+			],
+			[
+				"next",
+				"nextPage"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"curre",
+				"currentStep"
+			],
+			[
+				"validate",
+				"validateDate"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"sub",
+				"subsubid"
+			],
+			[
+				"POS",
+				"POST_IDEA_SUBMIT"
+			],
+			[
+				"GET",
+				"GET_IDEA_ID"
+			],
+			[
+				"sort",
+				"sortedItems"
+			],
+			[
+				"nex",
+				"nextPage"
+			],
+			[
+				"PAGE",
+				"PAGE_HOME"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Experiment",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/libs/three/shaders/DotMatrixShader.js",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/libs/three/shaders/DotScreenShader.js",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxNI2UserTracker/ofxNI2UserTracker.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxNI2UserTracker/bin/data/1395760988.oni",
+		"/C/Users/Bruno/Documents/jobs/2013/artism/git/openFrameworks/apps/myApps/ExperimentBruno/ExperimentBruno.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxOpenNI2/sample/example.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxOpenNI2/sample/example.workspace",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/App.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/libs/sketch.min.js",
+		"/C/Users/Bruno/Documents/oF/0800/examples/addons/assimpExample/assimpExample.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example-assimp-model/example-assimp-model.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxNI2UserTracker/ofxNI2UserTracker.workspace",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/.gitignore",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example-assimp-model/example-assimp-model.workspace",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/README.md",
+		"/C/Program Files (x86)/OpenNI2/Redist/OpenNI.ini",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/libs/OpenNI2/lib/osx/OpenNI.ini",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/libs/NiTE2/lib/osx/NiTE.ini",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example-user-tracker/example-user-tracker.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example-user-tracker/bin/NiTE.ini",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example-user-tracker/example-user-tracker.workspace",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/audio/_AppAudio.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/audio/AppAudio.coffee",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxNI2Example/ofxNI2Example.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/opeNI-SimpleExamples/openNISample007.cbp",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/3D/bars/AudioBar.coffee",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example/example.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example/.gitignore",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxONI2Example/ofxONI2Example.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example/example.workspace",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxONI2Example/obj/Release/addons/ofxONI2/src/ofxONI2.o",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxONI2Example/emptyExample.workspace",
+		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/ofxONI2Example/emptyExample.cbp",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/AppView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/libs/three/TrackballControls.js",
+		"/C/Users/Bruno/Dropbox/processing/sketch_11_09_01_boids_sphere/Boid.pde",
+		"/C/Users/Bruno/Documents/jobs/2014/hhk/git/index.yaml",
+		"/C/Users/Bruno/Documents/jobs/2014/hhk/git/source/index.txt",
+		"/C/Users/Bruno/Documents/jobs/2014/hhk/git/source/coffee/app/view/abstract/AbstractTileView.coffee",
+		"/C/Users/Bruno/Documents/jobs/2014/hhk/git/source/coffee/Main.coffee",
+		"/C/Users/Bruno/Documents/jobs/2014/hhk/git/source/style/imports/view/_sidebar.sass",
+		"/C/Program Files/OpenNI2/Samples/SimpleViewer/SimpleViewer.vcxproj",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxKinect/addon_config.mk",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/libs/OpenNI2/lib/osx/PS1080.ini",
+		"/C/Program Files/OpenNI2/Redist/OpenNI2/Drivers/PS1080.ini",
+		"/C/Program Files/OpenNI2/Redist/OpenNI2/Drivers/OniFile.pdb",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/libs/OpenNI2/lib/win/OpenNI2.lib",
+		"/C/Users/Bruno/Downloads/MAKECHECK.PATCH",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example/ofxNI2Example.cbp",
+		"/C/Users/Bruno/Documents/oF/0800/addons/ofxNI2/example/ofxNI2Example.workspace",
+		"/C/Users/Bruno/Desktop/EX109_Track1_DataPoints.dae",
+		"/C/Users/Bruno/Desktop/EX109_Track1_DataPoints.obj",
+		"/C/Users/Bruno/Desktop/EX109_Track1_DataPoints.fbx",
+		"/C/Users/Bruno/Dropbox/processing/sketch_11_09_01_boids_sphere/sketch_11_09_01_boids_sphere.pde",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/2D/player/PlayerView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/bars/AudioBars.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/timeline/Timeline.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/bars/AudioBar.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/bars/_AudioBar.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/main.js",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/libs/underscore-min.js",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/AppUI.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/timeline/SceneTimeline.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/scene/SceneTimeline.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/player/PlayerView.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/scene/SceneManager.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/utils/StringUtils.coffee",
+		"/C/Users/Bruno/Dropbox/com/brunoimbrizi/utils/StringUtils.as",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/player/AudioPlayer.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/utils/MathUtils.coffee",
+		"/C/Users/Bruno/Documents/jobs/bruno/v8/prototypes/01/index.html",
+		"/C/Users/Bruno/Documents/jobs/2013/artism/git/openFrameworks/apps/myApps/visualizationDev/visualizationDev.cbp",
+		"/C/Users/Bruno/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Bruno/Documents/jobs/2013/nike/git/website/prototypes/08/src/view/AppUI.coffee",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/localisation_tool/js/data.js",
+		"/C/Users/bruno/Documents/oF/0074/apps/myApps/01_BallTracking/_testApp.cpp",
+		"/C/Users/bruno/Documents/jobs/2013/nike/git/website/prototypes/video-filter/video-filter.html",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/js/social.js",
+		"/C/Users/bruno/Documents/oF/0074/addons/ofxCv/example-gesture/GestureExample.cbp",
+		"/C/Users/bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mask/MaskArc.coffee",
+		"/C/Users/bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mask/Mask.coffee",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/headers.php",
+		"/C/Users/bruno/Downloads/opencv.c",
+		"/C/Users/bruno/Documents/oF/0074/apps/myApps/01_BallTracking/01BallTracking.cbp",
+		"/C/Users/bruno/Documents/oF/0074/apps/myApps/01_BallTracking/01BallTracking.workspace",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/localisation_tool/js/main.js",
+		"/C/Users/bruno/Documents/oF/0074/addons/ofxCv/example-gesture/GestureExample.workspace",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/index.html",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/mobile/styles/style.css",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/project/develop/coffee/less/main.less",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/styles/skeleton.css",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/localisation_tool/index.html",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/assets/xml/en_GB/text.xml",
+		"/C/Users/bruno/Desktop/bruno.imbrizi",
+		"/C/Users/bruno/.ssh/config",
+		"/C/Users/bruno/Desktop/bruno.imbrizi.ppk",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/index.php",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/js/shareFancar.js",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/mobile/index.html",
+		"/C/Users/bruno/Desktop/stylesheet.css",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/.htaccess",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/styles/main.css",
+		"/C/Users/bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/mobile/style/style.css",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/styles/reset.css",
+		"/C/Users/bruno/Documents/jobs/2013/philips/svn/trunk/website/styles/base.css",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/drag/Drag.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/bin/js/libs/three/Raycaster.js",
+		"/C/Users/Bruno/Desktop/index.html",
+		"/C/Users/Bruno/Desktop/app.js",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/js/social.js",
+		"/C/Users/Bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/js/shareFancar.js",
+		"/C/Users/Bruno/Documents/jobs/2013/volkswagen/svn/trunk/website/index.html",
+		"/C/Users/Bruno/Documents/jobs/2013/nike/svn/trunk/project/develop/prototypes/04/src/App.coffee",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/index.php",
+		"/C/Users/Bruno/Documents/jobs/2013/philips/svn/trunk/website/styles/main.css",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mesh/ShapeMesh.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mesh/LatheMesh.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mesh/TubeMesh.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mesh/PlaneMesh.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/mesh/_PlaneMesh.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/59 Music Tomahawk/develop/src/view/meshes/ArcMesh.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/develop/src/view/charts/PieChart.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/develop/src/view/charts/VanishingBarChart.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/44 Sktech.js Boids/src/Boid.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/develop/src/view/charts/PieChartSlice.coffee",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/develop/bin/js/libs/toxi/geom/Vec3D.js",
+		"/C/Users/Bruno/Dropbox/experiments/57 Music/develop/bin/js/libs/toxi/internals.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2013\\zesty\\svn\\trunk\\website",
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2012\\nissan\\svn\\trunk\\project\\develop\\src\\coffee",
+			"C:\\Users\\brunoimbrizi\\Documents\\utils\\Quake2\\chaos",
+			"",
+			"C:\\Users\\brunoimbrizi\\Documents\\My Dropbox\\coffee\\dgw",
+			"C:\\Users\\brunoimbrizi\\Documents\\jobs\\2012\\nissan\\Test_Coffee",
+			"C:\\Users\\bruno\\Desktop\\Test Coffee\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"dotScreenShader",
+			"ofxUI",
+			"ofxNI2",
+			":",
+			"/",
+			"../../../addons",
+			"../../../",
+			"dotMatrixPass",
+			"playTime",
+			"currentTime",
+			".lib",
+			"icon",
+			"../../../addons/ofxNI2",
+			"..\\..\\..\\addons\\ofxNI2",
+			"ofxNI2Example",
+			"Win32",
+			"/ni2",
+			"ni2/",
+			"ni2\\",
+			"emptyExample",
+			"lightViewC",
+			"lightSpriteA",
+			"cameraZoom",
+			"up",
+			"OPENNI2_LIB64",
+			".lib",
+			"empty",
+			"@t",
+			"@",
+			"theta",
+			"phi",
+			"theta",
+			"lookat",
+			"connect",
+			"pausedAt",
+			"depth",
+			"constR",
+			"current",
+			"@current",
+			"duration",
+			"@duration",
+			"current",
+			"time",
+			"current",
+			"addLeadingZero",
+			"var",
+			"dancerData",
+			"gch",
+			"0.5",
+			"i * 0.5",
+			"f3",
+			"morphing",
+			"audio",
+			"–",
+			"#",
+			"EdgeExample",
+			"testapp",
+			"%23",
+			"#",
+			"%20",
+			"0",
+			"max-w",
+			"eff6fa",
+			"plane",
+			"1",
+			"plane",
+			"drags",
+			"initDrags",
+			"initInteractiveObjects",
+			"radius",
+			"depth",
+			"thickness",
+			"radius",
+			"@segmentsH",
+			"hseg",
+			"wseg",
+			"0,",
+			"0",
+			"touchmove",
+			"offset",
+			"normalizeTo",
+			"ui",
+			"app.audio",
+			"pizza",
+			"initPizza",
+			"sourceNode",
+			"@pos",
+			"tests",
+			"var",
+			"audioBuffer",
+			"analyser",
+			"UA-30271777'",
+			"harrow",
+			"splines",
+			"pipeSpline",
+			"st.",
+			"console.log",
+			"TrackballControls",
+			"@parent",
+			"parent",
+			"targetRotationOnMouseDown",
+			"mouseXOnMouseDown",
+			"mouseX",
+			"parent",
+			"camera",
+			"targetRotationOnMouseDown",
+			"onDocumentMouseDown",
+			"scene.ad",
+			"stats",
+			"detector",
+			"mapHeight",
+			"mapWidth",
+			"centerY",
+			"centerX",
+			"pic",
+			"pica",
+			"picadd",
+			"<Placemark>\\n.*<name>(.+)</name>[\\s\\S]*?<coordinates>\\n?[\\s\\S]*?([-.]?[-.]\\d*),(\\d*.\\d*)[\\s\\S]*?</coordinates>[\\s\\S]*?</Placemark>",
+			"<Placemark>\\n.*<name>(.+)</name>[\\s\\S]*?<coordinates>\\n?\\s*?([\\s\\S]*?)</coordinates>[\\s\\S]*?</Placemark>",
+			"<Placemark>\\n.*<name>(.+)</name>[\\s\\S]*?<coordinates>\\n?([\\s\\S]*?)</coordinates>[\\s\\S]*?</Placemark>",
+			"<Placemark>\\n.*<name>(.+)</name>[\\s\\S]*?<coordinates>([\\s\\S]*?)</coordinates>[\\s\\S]*?</Placemark>",
+			"<Placemark>\\n.*<name>(.+)</name>[\\s\\S]*?<coordinates>([\\s\\S]*?)</coordinates>",
+			"<Placemark>\\n.*<name>(.)+</name>",
+			"<Placemark>\\n.*<name>(.+)",
+			"<Placemark>\\n.*<name>(.+)</name>",
+			"<Placemark>\\n.*<name>(.)*</name>",
+			"(<Placemark>)(?s).*(Station)",
+			"(<Placemark>).?(<name>)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"initPieChart",
+			"analyserNode",
+			"analyserN",
+			"analyserNode",
+			"UA-30271777-1'",
+			"@container",
+			"targetRotationDown",
+			"mouseDownX",
+			"maph",
+			"mapw",
+			"cy",
+			"cx",
+			"$1 $2 $3",
+			"$1 $2",
+			"$1 == $2",
+			"$1",
+			"\"code\"",
+			"\"lat\": ",
+			"\"lat\":",
+			"},",
+			"\"",
+			"'",
+			"AppData."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}

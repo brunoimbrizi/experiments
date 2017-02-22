@@ -1,0 +1,66 @@
+<!--
+=================================================================
+	08 TEEN SPIRIT
+=================================================================
+	More info : http://brunoimbrizi.com/unbox/2014/06/teen-spirit/
+=================================================================
+-->
+<html>
+	<head>
+		<title>bruno imbrizi : experiments</title>
+		<link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
+		<style type="text/css">
+			html, body 		{ font-family: 'Monda', sans-serif; font-size: 12px; background: #222; margin: 0; overflow: hidden; }
+			a 				{ color: rgba(255, 255, 255, 0.2); }
+			a:hover			{ color: rgba(255, 255, 255, 0.5); }
+			#canvasUI		{ position: absolute; top: 0; left: 0; pointer-events: none; }
+			#loaderUI		{ position: absolute; top: 50%; left: 50%; margin-left: -150px; margin-top: -15px; width: 300px; height: 30px; text-align: center; color: rgba(255, 255, 255, 0.2); }
+			#stats			{ position: absolute; top: 0; left: 0; pointer-events: none; }
+			.nowebgl		{ background-image: url('img/nowebgl.gif'); background-position:center; background-repeat:no-repeat; position: absolute; top: 0px; left: 0px; min-width:100%; min-height:100%; max-height:100%; max-width:100%; width: auto; height: auto; overflow: hidden; }
+		</style>
+	</head>
+	<body>
+		<div id="container"></div>
+		<div id="loaderUI"></div>
+		<canvas id="canvasUI" />
+
+		<!-- THREE -->
+		<script type="text/javascript" src="js/libs/three/three.min.js"></script>
+		<script type="text/javascript" src="js/libs/three/TrackballControls.js"></script>
+		<script type="text/javascript" src="js/libs/Detector.js"></script>
+
+		<!-- GSAP -->
+		<script type="text/javascript" src="js/libs/gsap/TweenMax.min.js"></script>
+
+		<!-- Stats -->
+		<!-- <script type="text/javascript" src="js/libs/stats.min.js"></script> -->
+
+		<!-- Underscore -->
+		<script type="text/javascript" src="js/libs/underscore-min.js"></script>
+
+		<!-- dat.gui -->
+		<!-- <script type="text/javascript" src="js/libs/dat.gui.min.js"></script> -->
+
+		<!-- AudioContext monkeypatch -->
+		<script type="text/javascript" src="http://cwilso.github.com/AudioContext-MonkeyPatch/AudioContextMonkeyPatch.js"></script>
+
+		<!-- sketch -->
+		<script src="js/libs/sketch.min.js"></script>
+
+		<!-- main -->
+		<script src="js/main.js"></script>
+
+		<!-- Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-937722-4']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+	</body>
+</html>

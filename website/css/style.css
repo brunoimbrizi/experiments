@@ -1,0 +1,47 @@
+html, body {
+	font-family: 'Monda', sans-serif;
+	font-size: 12px;
+	color: rgba(255, 255, 255, 0.4);
+	background: #222;
+	margin: 0;
+}
+
+iframe				{ width: 100%; height: 100%; border: 0; z-index: -1; }
+
+a 					{ color: rgba(255, 255, 255, 0.4); text-decoration: none; }
+a:visited 			{ color: rgba(255, 255, 255, 0.4); }
+a:hover 			{ color: #cdcdcd; }
+
+#content			{ width: 100%; height:100%; }
+
+#ui					{ position:absolute; bottom:0; width:100%; height:40px; }
+
+#title				{ background-color: rgba(0, 0, 0, 0.9); padding:0px 20px; line-height: 40px; float: left; margin-right: 1px; }
+#title strong		{ color: #cdcdcd; font-weight: normal; }
+
+#menu 				{ }
+#menu a 			{ background-color: rgba(0, 0, 0, 0.6); padding:0px 12px; line-height: 40px; float: left; margin-right: 1px; }
+#menu a:hover		{ background-color: rgba(0, 0, 0, 0.9); }
+#menu a.selected	{ background-color: rgba(0, 0, 0, 0.9); color: #fff; }
+
+#info				{ background-color: rgba(0, 0, 0, 0.6); padding:0px 10px; line-height: 40px; overflow: hidden; display:none; }
+#info strong		{ padding-left:12px; color: #cdcdcd; font-weight: normal;  }
+
+#loading			{ background-color: rgba(0, 0, 0, 0.6); padding:0px 20px; line-height: 40px; overflow: hidden; }
+
+#social				{ background-color: rgba(0, 0, 0, 0.6); padding:0px 0px; margin:0; line-height: 40px; position:absolute; bottom:0; right:0;  }
+#social a 			{ opacity: 0.6 }
+#social a:hover		{ opacity: 1 }
+
+#overlay			{ width: 100%; height: 100%; position: absolute; background-color: #111; display: none; }
+
+
+body.black #title				{ background-color: rgba(20, 20, 20, 0.8); }
+body.black #info				{ background-color: rgba(20, 20, 20, 0.4); }
+body.black #menu a 				{ background-color: rgba(20, 20, 20, 0.4); }
+body.black #menu a:hover 		{ background-color: rgba(20, 20, 20, 0.8); }
+body.black #menu a.selected 	{ background-color: rgba(20, 20, 20, 0.8); }
+
+body.white 						{ color: rgba(255, 255, 255, 0.8); }
+body.white a					{ color: rgba(255, 255, 255, 0.8); }
+body.white a:visited			{ color: rgba(255, 255, 255, 0.8); }

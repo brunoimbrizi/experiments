@@ -1,0 +1,25 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "Experiment",
+			"cmd": ["${project_path}/scripts/coffee.bat"],
+			"working_dir": "${project_path}"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "../../website"
+		}
+	],
+	"settings":
+	[
+		{
+			"translate_tabs_to_spaces": true
+		}
+	]
+}
