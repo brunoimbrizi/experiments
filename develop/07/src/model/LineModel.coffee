@@ -12,19 +12,17 @@ class LineModel extends Backbone.Model
 	gettingPrediction	: null
 
 
-	getPredictionSummary: (fallback = false) ->
+	getPredictionSummary: ->
 		@gettingPrediction = true
 
 		@url = AppData.GET_PREDICTION_SUMMARY.replace('$code', @get('code'))
-		if (fallback) then @url = AppData.FALLBACK_PREDICTION_SUMMARY.replace('$code', @get('code'))
 		@fetch
 			dataType: 'xml'
 			success:	(model, reponse) =>
 				console.log 'LineModel.getPredictionSummary success'#, model, reponse
 				@trigger('loaded', @get('code'))
-			error:		(model, reponse) =>
+			error:		(model, reponse) ->
 				console.log 'LineModel.getPredictionSummary error'#, model, reponse
-				@getPredictionSummary(true)
 
 
 	parse: (data) ->
@@ -66,7 +64,7 @@ class LineModel extends Backbone.Model
 						if (tT != '0')
 							# add train only if new
 							train = parsed.trains.get(tS)
-							if (!train || train.get('destination') != tDE)
+							if !train 
 								train = new TrainModel()
 								train.set('id', tS)
 								train.set('trip', tT)

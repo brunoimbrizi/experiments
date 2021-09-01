@@ -3,37 +3,30 @@
 	06 AUDIO PENDULUMS
 =================================================================
 	Inspired by Simple Harmonic Motion by Memo Akten : http://www.memo.tv/simple-harmonic-motion-5/
+	
+	CoffeeScript 	: http://coffeescript.org
+	Sketch.js 		: https://github.com/soulwire/sketch.js
+	RequireJS 		: http://requirejs.org
+	GSAP 			: http://www.greensock.com/v12
+	dat.gui 		: https://code.google.com/p/dat-gui
 
 	Audio Samples by Dinahmoe for JAM with Chrome : http://www.dinahmoe.com
 =================================================================
--->
+ -->
 <html>
 	<head>
 		<title>bruno imbrizi : experiments</title>
 		<style type="text/css">
+
 			html, body {
 				background: #222;
 				margin: 0;
 			}
+
 		</style>
 	</head>
 	<body>
 		<div id="container"></div>
-
-		<!-- Tween -->
-		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js"></script>
-		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/easing/EasePack.min.js"></script>
-
-		<!-- dat.gui -->
-		<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5/dat.gui.min.js"></script>
-
-		<!-- AudioContext monkeypatch -->
-		<!-- <script type="text/javascript" src="http://cwilso.github.com/AudioContext-MonkeyPatch/AudioContextMonkeyPatch.js"></script> -->
-
-		<!-- sketch -->
-		<script src="js/libs/sketch.min.js"></script>
-
-		<!-- main -->
-		<script src="js/main.js"></script>
+		<script data-main="js/main" src="js/require.js"></script>
 	</body>
 </html>

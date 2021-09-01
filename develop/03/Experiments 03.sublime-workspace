@@ -132,18 +132,26 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/03/index.html",
+			"file": "src/App.coffee",
 			"settings":
 			{
-				"buffer_size": 821,
+				"buffer_size": 3618,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/App.coffee",
+			"file": "toaster.coffee",
 			"settings":
 			{
-				"buffer_size": 3548,
+				"buffer_size": 504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Bruno/Documents/jobs/bruno/experiments/website/03/index.html",
+			"settings":
+			{
+				"buffer_size": 821,
 				"line_ending": "Windows"
 			}
 		}
@@ -200,8 +208,6 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/03/toaster.coffee",
-		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/03/index.html",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/03/toaster.coffee",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/01/index.html",
 		"/C/Users/brunoimbrizi/Documents/My Dropbox/experiments/45 Sketch.js Ribbon/src/App.coffee",
@@ -327,7 +333,9 @@
 		"/C/Users/bruno/Desktop/coffee/view/AbstractView.coffee",
 		"/C/Users/bruno/Desktop/coffee/view/layout/AbstractLayoutView.coffee",
 		"/C/Users/bruno/Desktop/coffee/AppStatus.coffee",
-		"/C/Users/bruno/Desktop/coffee/router/AppRouter.coffee"
+		"/C/Users/bruno/Desktop/coffee/router/AppRouter.coffee",
+		"/C/Users/bruno/Desktop/coffee/collection/LabelCollection.coffee",
+		"/C/Users/bruno/Desktop/coffee/utils/FlashEventsWatcher.coffee"
 	],
 	"find":
 	{
@@ -447,7 +455,62 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/03/index.html",
+					"file": "src/App.coffee",
+					"settings":
+					{
+						"buffer_size": 3618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2434,
+								2434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "toaster.coffee",
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Bruno/Documents/jobs/bruno/experiments/website/03/index.html",
 					"settings":
 					{
 						"buffer_size": 821,
@@ -457,40 +520,13 @@
 						"selection":
 						[
 							[
-								629,
-								629
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/App.coffee",
-					"settings":
-					{
-						"buffer_size": 3548,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7,
-								7
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,

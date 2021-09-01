@@ -53,9 +53,7 @@ class AppThree
 
 		# camera
 		@camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.01, 2000)
-		# @camera.position = new THREE.Vector3(0, 0, 600)
-		@camera.position = new THREE.Vector3(-57, -82, 12)
-		@camera.up = new THREE.Vector3(0.18, 0.0, 0.98)
+		@camera.position = new THREE.Vector3(0, 0, 600)
 
 		# trackball
 		@controls = new THREE.TrackballControls(@camera, @renderer.domElement)
@@ -84,7 +82,7 @@ class AppThree
 			line = new LineView(new THREE.Object3D(), lineModel, @lines.length)
 			@container.add(line.container)
 			@lines.push(line)
-			# if (@lines.length > 3) then return
+			# if (@lines.length > 2) then return
 
 
 	initInteractiveObjects: ->

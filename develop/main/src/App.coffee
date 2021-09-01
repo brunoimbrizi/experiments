@@ -11,22 +11,11 @@ $ ->
 
 
 		initMenu: ->
-			###
-			@NUM_EXPERIMENTS = $('#info').children().length
+			@NUM_EXPERIMENTS = document.getElementById('info').children.length
 
 			for i in [0...app.NUM_EXPERIMENTS]
 				a = app.addLeadingZero(i + 1)
 				$('#menu').append '<a href="' + a + '/index.html">' + a + '</a>'
-			###
-
-			arr = ['01', '02', '03', '04', '05', '06', '07', '08', '09', 'go-with-the-flow']
-
-			@NUM_EXPERIMENTS = arr.length
-
-			for i in [0...app.NUM_EXPERIMENTS]
-				n = app.addLeadingZero(i + 1)
-				a = arr[i]
-				$('#menu').append '<a href="' + a + '/index.html">' + n + '</a>'
 			
 			$('#menu a').bind('click', app.onMenuClick)
 			$('#info').css('display', 'block')
@@ -96,7 +85,7 @@ $ ->
 				$('#info').css 'display', 'none'
 			else
 				$('#info').css 'display', 'block'
-				$($('#info span')[index]).css 'display', 'inline-block'
+				$($('#info span')[index]).css 'display', 'block'
 
 			# set focus on iframe
 			$('#content iframe').focus()
@@ -125,16 +114,6 @@ $ ->
 			num
 
 
-		resize: =>
-			wmenu = 0
-			for i in [0...$('#menu').children().length]
-				wmenu += $('#menu').children().eq(i).outerWidth(true)
-
-			w = $(window).width() - $('#title').outerWidth(true) - $('#social').outerWidth(true) - wmenu - 1
-			$('#info').outerWidth(w)
-			return null
-
-
 	window.onload = ->
 		app.initMenu()
 
@@ -150,6 +129,3 @@ $ ->
 		if !$.address.value().substr(1)
 			$.address.value($('#menu a')[0].innerHTML)
 		else app.navTo($.address.value().substr(1, 2))
-
-		$(window).resize(app.resize)
-		app.resize()

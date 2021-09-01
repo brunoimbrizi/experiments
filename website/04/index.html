@@ -4,38 +4,32 @@
 =================================================================
 	Port of a Processing sketch : https://vimeo.com/42292399
 	
+	CoffeeScript 	: http://coffeescript.org
+	Sketch.js 		: https://github.com/soulwire/sketch.js
+	RequireJS 		: http://requirejs.org
+	toxiclibs.js 	: http://haptic-data.com/toxiclibsjs
+	dat.gui 		: https://code.google.com/p/dat-gui
+
 	AdvancED ActionScript 3.0 Animation by Keith Peters : http://www.apress.com/9781430216087
 	Steering Behaviors For Autonomous Characters by Craig Reynolds : http://www.red3d.com/cwr/steer/
 	Artificial Intelligence for Games by Ian Millington, John David Funge : http://books.google.co.uk/books?id=1OJ8EhvuPXAC
 	Eric Natzke's ribbons : http://www.natzke.com
 =================================================================
--->
+ -->
 <html>
 	<head>
 		<title>bruno imbrizi : experiments</title>
 		<style type="text/css">
+
 			html, body {
 				background: #222;
 				margin: 0;
 			}
+
 		</style>
 	</head>
 	<body>
 		<div id="container"></div>
-
-		<!-- toxi -->
-		<script type="text/javascript" src="js/libs/toxi/internals.js"></script>
-		<script type="text/javascript" src="js/libs/toxi/geom/Vec3D.js"></script>
-		<script type="text/javascript" src="js/libs/toxi/geom/Vec2D.js"></script>
-		
-		<!-- dat.gui -->
-		<!-- // <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5/dat.gui.min.js"></script> -->
-		<script type="text/javascript" src="js/libs/dat.gui.min.js"></script>
-
-		<!-- sketch -->
-		<script src="js/libs/sketch.min.js"></script>
-
-		<!-- main -->
-		<script src="js/main.js"></script>
+		<script data-main="js/main" src="../js/require.js"></script>
 	</body>
 </html>

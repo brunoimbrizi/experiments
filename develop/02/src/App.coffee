@@ -1,3 +1,10 @@
+requirejs ['toxi/geom/Vec3D', 'sketch.min'], (Vec3D, sketch) ->
+	# console.log 'requirejs loaded'
+	window.Vec3D = Vec3D
+	window.focus()
+	init()
+
+
 init = ->
 	sketch = Sketch.create
 
@@ -12,13 +19,13 @@ init = ->
 		WIND 			: 0
 		DAMP			: 0.9
 		COLOURS			: [ '#69D2E7', '#A7DBD8', '#E0E4CC', '#F38630', '#FA6900', '#FF4E50', '#F9D423' ]
-		THICKNESS 		: 23
+		THICKNESS 		: 20
 
 		container		: document.getElementById 'container'
+		# autoclear		: false
+
 
 		setup: ->
-			window.focus()
-
 			@DISTANCE_SQ = @DISTANCE * @DISTANCE
 			@initParticles()
 
@@ -136,9 +143,10 @@ init = ->
 					mx = p.x + (np.x - p.x) * .5
 					my = p.y + (np.y - p.y) * .5
 
+					
 					# sketch.quadraticCurveTo(p.x, p.y, mx, my)
 
-					# shape 1
+					# weird shape 1
 					# sketch.bezierCurveTo(p.x + p.mx, p.y + p.my, p.x + p.nx, p.y + p.ny, mx, my)
 					# sketch.arc(p.x + p.mx, p.y + p.my, 2, 0, TWO_PI)
 					# sketch.arc(p.x + p.nx, p.y + p.ny, 2, 0, TWO_PI)
@@ -192,6 +200,7 @@ init = ->
 						# sketch.quadraticCurveTo(p_mx, p_my, mmx, mmy)
 						# sketch.arc(p_mx, p_my, 2, 0, TWO_PI)
 						# sketch.arc(p_mx - cos(p.angle + HALF_PI) * 10, p_my - sin(p.angle + HALF_PI) * 10, 2, 0, TWO_PI)
+						# sketch.arc(p_mx + cos(p.angle + HALF_PI) * 10, p_my + sin(p.angle + HALF_PI) * 10, 2, 0, TWO_PI)
 						sketch.bezierCurveTo(pp_mx + cos(pp.angle + HALF_PI) * 10, pp_my + sin(pp.angle + HALF_PI) * 10, np_mx - cos(np.angle + HALF_PI) * 10, np_my - sin(np.angle + HALF_PI) * 10, np_mx, np_my)
 						# sketch.bezierCurveTo(p_mx + cos(p.angle + HALF_PI) * 10, p_my + sin(p.angle + HALF_PI) * 10, np_mx - cos(np.angle + HALF_PI) * 10, np_my - sin(np.angle + HALF_PI) * 10, np_mx, np_my)
 
@@ -343,7 +352,7 @@ init = ->
 
 				if (i < @NUM_PARTICLES * .5) then p.thickness = @THICKNESS * (i / @NUM_PARTICLES)
 				else p.thickness = @THICKNESS * ((@NUM_PARTICLES - i) / @NUM_PARTICLES)
+				# p.thickness = @THICKNESS * ((i - @NUM_PARTICLES) / @NUM_PARTICLES)
+				# p.thickness = @THICKNESS * (Math.abs(i - @NUM_PARTICLES * .5) / @NUM_PARTICLES)
+					
 				@particles.push(p)
-
-
-do init

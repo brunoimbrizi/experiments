@@ -1,3 +1,9 @@
+requirejs ['toxi/geom/Vec3D', './sketch.min', './dat.gui.min'], (Vec3D, sketch) ->
+	# console.log 'requirejs loaded'
+	window.Vec3D = Vec3D
+	init()
+
+
 init = ->
 	sketch = Sketch.create
 
@@ -177,6 +183,3 @@ init = ->
 			gui.add(@, 'takeShortcuts').listen()
 			gui.add(@, 'numBoids').min(1).max(60).step(1)
 			gui.add(@, 'clearPath')
-
-
-do init

@@ -1,3 +1,8 @@
+requirejs ['sketch.min'], (sketch) ->
+	# console.log 'requirejs loaded'
+	init()
+
+
 init = ->
 	sketch = Sketch.create
 
@@ -180,6 +185,3 @@ init = ->
 				sketch.beginPath()
 				c.draw(sketch)
 				sketch.stroke()
-
-
-do init

@@ -1,3 +1,10 @@
+requirejs ['toxi/geom/Vec3D', 'sketch.min', './plugins/ColorPropsPlugin.min', './TimelineMax.min', './TweenLite.min'], (Vec3D) ->
+	# console.log 'requirejs loaded'
+	window.Vec3D = Vec3D
+	window.focus()
+	init()
+
+
 init = ->
 	sketch = Sketch.create
 
@@ -32,8 +39,6 @@ init = ->
 
 
 		setup: ->
-			window.focus()
-
 			@DISTANCE_SQ = @DISTANCE * @DISTANCE
 			@colour = {}
 			@colour.c = @COLOURS_0[0]
@@ -48,6 +53,8 @@ init = ->
 			p = @particles[0]
 			p.x = sketch.mouse.x
 			p.y = sketch.mouse.y
+
+			if (!p.x && !p.y) then return
 
 			# elastic ribbon ### also comment if (i == 0) bellow
 			for i in [@NUM_PARTICLES - 1..0]
@@ -104,6 +111,7 @@ init = ->
 
 			sketch.beginPath()
 			sketch.strokeStyle = @colour.c
+			# sketch.strokeStyle = @colours[floor((sketch.millis * 0.0003) % @colours.length)]
 			sketch.fillStyle = sketch.strokeStyle
 			sketch.lineWidth = 1
 
@@ -139,6 +147,18 @@ init = ->
 					sketch.bezierCurveTo(p.x + p.mx, p.y + p.my, p.x + p.nx, p.y + p.ny, mx, my)
 					# sketch.arc(p.x + p.mx, p.y + p.my, 2, 0, TWO_PI)
 					sketch.arc(p.x + p.nx, p.y + p.ny, 2, 0, TWO_PI)
+				
+				# shape 2
+				# thickness = @THICKNESS
+				# tcos = thickness * cos(p.angle + HALF_PI)
+				# tsin = thickness * sin(p.angle + HALF_PI)
+				# sketch.arc(p.x + tcos, p.y + tsin, 4, 0, TWO_PI)
+				# sketch.arc(p.x - tcos, p.y - tsin, 4, 0, TWO_PI)
+
+				# shape 3
+				# thickness = p.thickness
+				# sketch.arc(p.x + thickness * cos(p.angle), p.y + thickness * sin(p.angle), 4, 0, TWO_PI)
+				# sketch.arc(p.x - thickness * cos(p.angle), p.y - thickness * sin(p.angle), 4, 0, TWO_PI)
 
 			sketch.stroke()
 			
@@ -155,8 +175,8 @@ init = ->
 
 		touchend: ->
 			touch = sketch.touches[0]
-			if (touch.ox == touch.x && touch.oy == touch.y)
-				@switchMode()
+			# if (touch.ox == touch.x && touch.oy == touch.y)
+			@switchMode()
 
 
 		switchMode: ->
@@ -171,7 +191,7 @@ init = ->
 					@timeline_1.play()
 					@timeline_2.stop()
 					@body.style.background = '#222'
-					try(parent.document) parent.app.updateBodyClass('')
+					if parent.app then parent.app.updateBodyClass('')
 					@composite = @LIGHTER
 				when 2
 					@timeline_0.stop()
@@ -179,15 +199,15 @@ init = ->
 					@colour.c = @COLOURS_2[0]
 					@timeline_2.play()
 					@body.style.background = '#222'
-					try(parent.document) parent.app.updateBodyClass('')
-					composite = @LIGHTER
+					if parent.app then parent.app.updateBodyClass('')
+					@composite = @LIGHTER
 				else
 					@timeline_0.play()
 					@timeline_1.stop()
 					@timeline_2.stop()
 					@colour.c = @COLOURS_0[0]
 					@body.style.background = '#FFF'
-					try(parent.document) parent.app.updateBodyClass('white')
+					if parent.app then parent.app.updateBodyClass('white')
 					@composite = @SOURCE_OVER
 
 
@@ -208,6 +228,8 @@ init = ->
 
 				if (i < @NUM_PARTICLES * .5) then p.thickness = @THICKNESS * (i / @NUM_PARTICLES)
 				else p.thickness = @THICKNESS * ((@NUM_PARTICLES - i) / @NUM_PARTICLES)
+				# p.thickness = @THICKNESS * (Math.abs(i - @NUM_PARTICLES * .5) / @NUM_PARTICLES)
+				# p.thickness = @THICKNESS * ((i - @NUM_PARTICLES) / @NUM_PARTICLES)
 					
 				@particles.push(p)
 
@@ -227,7 +249,3 @@ init = ->
 			for i in [0...@COLOURS_2.length]
 				@timeline_2.to(@colour, 3, { colorProps:{ c:@COLOURS_2[i] } } )
 			@timeline_2.to(@colour, 3, { colorProps:{ c:@COLOURS_2[0] } } )
-
-
-
-do init

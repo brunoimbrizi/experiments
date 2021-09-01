@@ -2,6 +2,10 @@
 (function() {
   var VerletConstraint, VerletPoint, init;
 
+  requirejs(['sketch.min'], function(sketch) {
+    return init();
+  });
+
   init = function() {
     var sketch;
     return sketch = Sketch.create({
@@ -212,8 +216,6 @@
       }
     });
   };
-
-  init();
 
   VerletConstraint = (function() {
 

@@ -28,6 +28,7 @@ class AppAudio
 
 
 	init: ->
+		AudioContext = window.AudioContext || window.webkitAudioContext;
 		@ctx = new AudioContext()
 
 		@values = []

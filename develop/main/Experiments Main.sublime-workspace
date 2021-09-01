@@ -120,26 +120,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/index.html",
+			"file": "/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/index.html",
 			"settings":
 			{
-				"buffer_size": 2518,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Bruno/Dropbox/experiments/67 Dance/docs/threejs_example_collada/monster.dae",
-			"settings":
-			{
-				"buffer_size": 588999,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/css/style.css",
-			"settings":
-			{
-				"buffer_size": 2024,
+				"buffer_size": 1815,
 				"line_ending": "Windows"
 			}
 		},
@@ -147,7 +131,7 @@
 			"file": "src/App.coffee",
 			"settings":
 			{
-				"buffer_size": 3707,
+				"buffer_size": 3395,
 				"line_ending": "Windows"
 			}
 		}
@@ -204,19 +188,6 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Bruno/Dropbox/experiments/67 Dance/docs/threejs_example_collada/webgl_loader_collada.html",
-		"/C/Users/Bruno/Documents/jobs/2013/artism/docs/EX109_Track1_DataPoints.dae",
-		"/C/Users/Bruno/Desktop/fbx-animation.json",
-		"/C/Users/Bruno/Dropbox/experiments/67 Dance/docs/threejs_example_collada/mocap_david_boxes.DAE",
-		"/C/Users/Bruno/Dropbox/experiments/67 Dance/docs/threejs_example_collada/2box.DAE",
-		"/C/Users/Bruno/Dropbox/experiments/67 Dance/docs/threejs_example_collada/test_skin.DAE",
-		"/C/Users/Bruno/Documents/jobs/2013/artism/docs/mocap_david_dummy.DAE",
-		"/C/Users/Bruno/Documents/jobs/2013/artism/docs/EX109_Track1_DataPoints.obj",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/06/index.html",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/08/index.html",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/index.html",
-		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/index.html",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/index.html",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/css/style.css",
 		"/C/Users/brunoimbrizi/Documents/My Dropbox/jobs/bruno/experiments/develop/main/scripts/coffee.bat",
 		"/C/Users/brunoimbrizi/Documents/jobs/unbox/wordpress/wp-config-online.php",
@@ -331,7 +302,20 @@
 		"/C/Users/bruno/Desktop/coffee/App.coffee",
 		"/C/Users/bruno/Desktop/coffee/view/AppView.coffee",
 		"/C/Users/bruno/Desktop/coffee/collection/XML.coffee",
-		"/C/Users/bruno/Desktop/coffee/en.xml"
+		"/C/Users/bruno/Desktop/coffee/en.xml",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/assets/xml/text.xml",
+		"/C/Users/bruno/Desktop/coffee/view/wrapper/WrapperView.coffee",
+		"/C/Users/bruno/Documents/jobs/2011/lipton/svn/trunk/project/develop/game/src/Main.as",
+		"/C/Users/bruno/Desktop/Test Coffee/bin/index.html",
+		"/C/xampp/apache/conf/extra/httpd-userdir.conf",
+		"/C/Users/bruno/Desktop/Test Coffee/scripts/coffee.bat",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/App.coffee",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/AppStatus.coffee",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/router/AppRouter.coffee",
+		"/C/Users/bruno/Desktop/coffee/index.php",
+		"/C/Users/bruno/Desktop/en.xml",
+		"/C/Users/bruno/Desktop/Test Coffee/src/coffee/collection/XML.coffee",
+		"/C/Users/bruno/Desktop/coffee/utils/Social.coffee"
 	],
 	"find":
 	{
@@ -355,12 +339,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"displa",
-			"displau",
-			"display",
-			"block",
-			"loading",
-			"Sketching with Javascript.",
 			"console.log",
 			"console",
 			"console.log",
@@ -452,23 +430,22 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/index.html",
+					"file": "/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/index.html",
 					"settings":
 					{
-						"buffer_size": 2518,
+						"buffer_size": 1815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1736,
-								1736
+								0,
+								0
 							]
 						],
 						"settings":
@@ -484,72 +461,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Bruno/Dropbox/experiments/67 Dance/docs/threejs_example_collada/monster.dae",
-					"settings":
-					{
-						"buffer_size": 588999,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								249,
-								249
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/css/style.css",
-					"settings":
-					{
-						"buffer_size": 2024,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1404,
-								1404
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "src/App.coffee",
 					"settings":
 					{
-						"buffer_size": 3707,
+						"buffer_size": 3395,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2596,
-								2596
+								19,
+								11
 							]
 						],
 						"settings":
@@ -558,7 +481,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1198.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -1,3 +1,8 @@
+requirejs ['sketch.min', 'TweenLite.min', 'easing/EasePack.min', 'dat.gui.min'], (sketch) ->
+	console.log 'requirejs loaded'
+	init()
+
+
 init = ->
 	sketch = Sketch.create
 
@@ -20,6 +25,8 @@ init = ->
 		OFFSET			: 45
 
 		container: document.getElementById 'container'
+		# autoclear: false
+		# interval: 10
 
 
 		setup: ->
@@ -103,6 +110,8 @@ init = ->
 		mousedown: ->
 			@down = true
 
+			@audioContext.resume()
+
 			for t in @triggers
 				dx = sketch.mouse.x - t.pos.x
 				dy = sketch.mouse.y - t.pos.y
@@ -131,7 +140,8 @@ init = ->
 
 
 		initAudio: ->
-			if typeof(webkitAudioContext) != "function" then return
+			AudioContext = window.AudioContext || window.webkitAudioContext;
+			# if typeof(webkitAudioContext) != "function" then return
 			@audioContext = new AudioContext()
 			@gain = @audioContext.createGain()
 			@gain.connect(@audioContext.destination)
@@ -261,6 +271,3 @@ init = ->
 
 			# return
 			new Preset('from url', @presets.length, freq, types)
-
-
-do init

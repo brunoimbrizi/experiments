@@ -1,3 +1,9 @@
+requirejs ['toxi/geom/Vec3D', './sketch.min', './dat.gui.min'], (Vec3D, sketch) ->
+	# console.log 'requirejs loaded'
+	window.Vec3D = Vec3D
+	init()
+
+
 init = ->
 	sketch = Sketch.create
 
@@ -13,6 +19,8 @@ init = ->
 		NUM_BOIDS		: 100
 
 		container: document.getElementById 'container'
+		# autoclear: false
+		# interval: 10
 
 
 		setup: ->
@@ -177,6 +185,22 @@ init = ->
 			@img.ctx.fillText('5', (@img.width - @img.ctx.measureText('5').width) * .5, 320)
 
 			@setBrightness()
+			
+			###
+			# load default image
+			img.onload = =>
+				# store image in a canvas to be able to retrieve pixel data
+				@img = document.createElement('canvas')
+				@img.width = img.width
+				@img.height = img.height
+				
+				@img.ctx = @img.getContext('2d')
+				@img.ctx.drawImage(img, 0, 0)
+
+				@setBrightness()
+
+			img.src = 'img/nine_large.gif'
+			###
 
 
 		initGUI: ->
@@ -185,6 +209,14 @@ init = ->
 			# gui.add(@, 'drawImg')
 			gui.add(@, 'drawLines').listen()
 			gui.add(@, 'numBoids').min(50).max(300).step(1)
+
+			###
+			# hacky way to add a label to dat.gui
+			components = document.getElementsByClassName('cr boolean')
+			for i in [0...components.length]
+				if components[i].firstChild.getElementsByTagName('span')[0].innerHTML == "drawLines"
+					components[i].firstChild.getElementsByTagName('div')[0].innerHTML += '<span class="label"> (max 150 boids)</span>'
+			###
 
 
 		setBrightness: ->
@@ -205,6 +237,4 @@ init = ->
 
 		getBrightness: (x, y) ->
 			@brightness[floor(y) * @img.width + floor(x)]
-
-
-do init
+			

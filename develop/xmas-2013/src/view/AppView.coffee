@@ -42,6 +42,7 @@ class AppView
 
 		@sketch.mousedown = =>
 			@sketch.down = true
+			@audio.ctx.resume()
 			# @draw.mousedown()
 
 

@@ -32,7 +32,9 @@
     AppAudio.prototype.BINS = 256;
 
     AppAudio.prototype.init = function() {
-      this.ctx = new webkitAudioContext();
+      var AudioContext;
+      AudioContext = window.AudioContext || window.webkitAudioContext;
+      this.ctx = new AudioContext();
       this.values = [];
       this.analyserNode = this.ctx.createAnalyser();
       this.analyserNode.smoothingTimeConstant = 0.9;
@@ -13322,7 +13324,8 @@
       };
       this.sketch.resize = function() {};
       this.sketch.mousedown = function() {
-        return _this.sketch.down = true;
+        _this.sketch.down = true;
+        return _this.audio.ctx.resume();
       };
       this.sketch.mouseup = function() {
         return _this.sketch.down = false;

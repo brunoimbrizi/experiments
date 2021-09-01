@@ -136,19 +136,19 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/02/index.html",
+			"file": "src/App.coffee",
 			"settings":
 			{
-				"buffer_size": 645,
+				"buffer_size": 9043,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/App.coffee",
+			"file": "toaster.coffee",
 			"settings":
 			{
-				"buffer_size": 8620,
-				"line_ending": "Windows"
+				"buffer_size": 506,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -191,11 +191,7 @@
 	},
 	"console":
 	{
-		"height": 146.0,
-		"history":
-		[
-			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-		]
+		"height": 146.0
 	},
 	"distraction_free":
 	{
@@ -206,17 +202,8 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/02"
-	],
 	"file_history":
 	[
-		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/3DRibbon/3DRibbon.cbp",
-		"/C/Users/Bruno/Documents/oF/0800/apps/myApps/3DRibbon/3DRibbon.workspace",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/02/toaster.coffee",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/02/scripts/coffee.bat",
 		"/C/Users/Bruno/Documents/jobs/bruno/experiments/website/02/index.html",
 		"/C/Users/brunoimbrizi/Documents/My Dropbox/jobs/bruno/experiments/develop/02/src/App.coffee",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/css/style.css",
@@ -340,7 +327,11 @@
 		"/C/Users/bruno/Desktop/Test Coffee/src/coffee/collection/XML.coffee",
 		"/C/Users/bruno/Desktop/coffee/utils/Social.coffee",
 		"/C/Users/bruno/Desktop/coffee/AppConfig.coffee",
-		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/website/index.php"
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/website/index.php",
+		"/C/Users/bruno/Desktop/Test Coffee/Nissan.sublime-project",
+		"/C/Users/bruno/Desktop/coffee/view/header/HeaderView.coffee",
+		"/C/Users/bruno/Desktop/coffee/view/AbstractView.coffee",
+		"/C/Users/bruno/Desktop/coffee/view/layout/AbstractLayoutView.coffee"
 	],
 	"find":
 	{
@@ -364,7 +355,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Vec3D",
 			"console",
 			"COLOURS",
 			"bezi",
@@ -458,65 +448,62 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/02/index.html",
-					"semi_transient": false,
+					"file": "src/App.coffee",
 					"settings":
 					{
-						"buffer_size": 645,
+						"buffer_size": 9043,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								486,
-								486
+								419,
+								425
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/App.coffee",
-					"semi_transient": false,
+					"file": "toaster.coffee",
 					"settings":
 					{
-						"buffer_size": 8620,
+						"buffer_size": 506,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4404,
-								4404
+								470,
+								470
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3385.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -557,11 +544,6 @@
 	{
 		"height": 118.0
 	},
-	"output.find_results":
-	{
-		"height": 0.0
-	},
-	"project": "Experiments 02.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -583,25 +565,10 @@
 		],
 		"width": 0.0
 	},
-	"select_symbol":
-	{
-		"height": 0.0,
-		"selected_items":
-		[
-		],
-		"width": 0.0
-	},
-	"selected_group": 0,
-	"settings":
-	{
-	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 230.0,
-	"status_bar_visible": true,
-	"template_settings":
-	{
-	}
+	"status_bar_visible": true
 }

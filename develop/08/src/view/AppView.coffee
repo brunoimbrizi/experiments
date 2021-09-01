@@ -59,6 +59,8 @@ class AppView
 			@ui.touchstart()
 			# @three.touchstart()
 
+			@audio.ctx.resume()
+
 
 		@sketch.touchmove = =>
 			@ui.touchmove()

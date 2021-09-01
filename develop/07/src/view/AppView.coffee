@@ -79,7 +79,7 @@ class AppView extends Backbone.View
 
 
 	show: (delay = 0) =>
-		###
+		##
 		# TweenLite.to(@three.camera.position, 2, { x:-150, y:-295, z:30, delay:delay, ease:Quart.easeInOut } )
 		TweenLite.to(@three.camera.position, 2, { x:-57, y:-82, z:12, delay:delay, ease:Expo.easeInOut, onComplete: =>
 			@showed = true
@@ -88,7 +88,7 @@ class AppView extends Backbone.View
 		} )
 		# TweenLite.to(@three.camera.rotation, 3, { x:1.43, y:-0.64, z:-0.22, delay:delay, ease:Quart.easeOut } )
 		TweenLite.to(@three.camera.up, 2, { x:0.18, y:0.00, z:0.98, delay:delay, ease:Quart.easeInOut } )
-		###
+		##
 
 		@audio.muted = false
 		@audio.volume = 0

@@ -66,7 +66,7 @@ class AppUI
 		f2 = gui.addFolder('Trains')
 		# f2.open()
 		@guiData.restart = @onRestartClick
-		f2.add(@guiData, 'speed', 1, 50).step(1).onFinishChange(-> that.onSpeedChange())
+		f2.add(@guiData, 'speed', 1, 50).onFinishChange(-> that.onSpeedChange())
 		f2.add(@guiData, 'restart')
 
 		###

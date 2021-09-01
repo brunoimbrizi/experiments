@@ -181,7 +181,7 @@ class LineView
 
 		trainCollection = @model.get('trains')
 		trainCollection.each (model, index, list) =>
-			# if (index != 21) then return
+			# if (index > 1) then return
 			train = new TrainView(@container, model, @color)
 			@trains.push(train)
 
@@ -190,7 +190,7 @@ class LineView
 		# @trains.push(train)
 
 			timeline = new TimelineLite()
-			timeline.timeScale(app.view.ui.guiData.speed)
+			timeline.timeScale(AppData.TRAIN_SPEED)
 			@timelines.push(timeline)
 			train.t = -1
 

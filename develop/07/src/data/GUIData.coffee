@@ -12,7 +12,7 @@ class GUIData
 	Victoria				: false
 	Waterloo				: false
 
-	speed					: 5
+	speed					: 10
 	separate				: false
 	restart					: null
 	mute					: false

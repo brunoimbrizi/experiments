@@ -204,18 +204,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/06/index.html",
-			"settings":
-			{
-				"buffer_size": 1298,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "src/App.coffee",
 			"settings":
 			{
-				"buffer_size": 5987,
+				"buffer_size": 6160,
 				"line_ending": "Windows"
 			}
 		},
@@ -223,7 +215,15 @@
 			"file": "src/Trigger.coffee",
 			"settings":
 			{
-				"buffer_size": 4707,
+				"buffer_size": 4708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/06/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
@@ -233,6 +233,14 @@
 			{
 				"buffer_size": 132,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "toaster.coffee",
+			"settings":
+			{
+				"buffer_size": 504,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -292,11 +300,6 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/08/src/view/AppUI.coffee",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/08/index.html",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/06/scripts/coffee.bat",
-		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/06/index.html",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/06/toaster.coffee",
 		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/data model.txt",
 		"/C/Users/brunoimbrizi/Documents/experiments/51 Tube/Stations.kml",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/index.html",
@@ -419,7 +422,12 @@
 		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/pages/PagesView.coffee",
 		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/src/coffee/view/page/PageView.coffee",
 		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/index.html",
-		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/router/AppRouter.coffee"
+		"/C/Users/brunoimbrizi/Documents/My Dropbox/coffee/dgw/router/AppRouter.coffee",
+		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/js/app.js",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/bruno/Desktop/coffee/App.coffee",
+		"/C/Users/bruno/Desktop/coffee/view/AppView.coffee",
+		"/C/Users/bruno/Desktop/coffee/collection/XML.coffee"
 	],
 	"find":
 	{
@@ -443,9 +451,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"noteOn",
-			"getParam",
-			"audioContext",
 			"GUI",
 			"currentPreset",
 			"@preset",
@@ -559,28 +564,55 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/06/index.html",
+					"file": "src/App.coffee",
 					"settings":
 					{
-						"buffer_size": 1298,
+						"buffer_size": 6160,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1160,
-								1160
+								4804,
+								4823
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2698.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Trigger.coffee",
+					"settings":
+					{
+						"buffer_size": 4708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1507,
+								1538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -590,55 +622,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "src/App.coffee",
-					"settings":
-					{
-						"buffer_size": 5987,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4541,
-								4541
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2975.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 2,
-					"file": "src/Trigger.coffee",
+					"file": "/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/06/index.html",
 					"settings":
 					{
-						"buffer_size": 4707,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4008,
-								4008
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2939.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -662,6 +667,34 @@
 						"settings":
 						{
 							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "toaster.coffee",
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

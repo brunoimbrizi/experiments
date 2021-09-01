@@ -152,18 +152,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/05/index.html",
-			"settings":
-			{
-				"buffer_size": 1498,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "src/App.coffee",
 			"settings":
 			{
-				"buffer_size": 5246,
+				"buffer_size": 6144,
 				"line_ending": "Windows"
 			}
 		},
@@ -176,11 +168,11 @@
 			}
 		},
 		{
-			"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/05/js/libs/toxi/geom/Vec3D.js",
+			"file": "/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/05/index.html",
 			"settings":
 			{
-				"buffer_size": 18836,
-				"line_ending": "Unix"
+				"buffer_size": 1154,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -240,17 +232,12 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/index.html",
-		"/C/Users/Bruno/Dropbox/experiments/51 Tube/tools/parser/bin/output/stations.json",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/develop/README.md",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/04/index.html",
-		"/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/07/index.html",
-		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/05/index.html",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/05/toaster.coffee",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/index.html",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/04/index.html",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/05/src/App.coffee",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/03/index.html",
+		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/05/index.html",
 		"/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/develop/05/Experiments 05.sublime-project",
 		"/C/Users/brunoimbrizi/Documents/experiments/48 Sketch.js Ident/toaster.coffee",
 		"/C/Users/brunoimbrizi/Documents/experiments/48 Sketch.js Ident/SketchIdent/toaster.coffee",
@@ -367,7 +354,12 @@
 		"/C/Users/bruno/Desktop/coffee/collection/XML.coffee",
 		"/C/Users/bruno/Desktop/coffee/en.xml",
 		"/C/Users/brunoimbrizi/Documents/jobs/2012/nissan/Test_Coffee/bin/assets/xml/text.xml",
-		"/C/Users/bruno/Desktop/coffee/view/wrapper/WrapperView.coffee"
+		"/C/Users/bruno/Desktop/coffee/view/wrapper/WrapperView.coffee",
+		"/C/Users/bruno/Documents/jobs/2011/lipton/svn/trunk/project/develop/game/src/Main.as",
+		"/C/Users/bruno/Desktop/Test Coffee/bin/index.html",
+		"/C/xampp/apache/conf/extra/httpd-userdir.conf",
+		"/C/Users/bruno/Desktop/Test Coffee/scripts/coffee.bat",
+		"/C/Users/bruno/Documents/jobs/2012/nissan/svn/trunk/project/develop/src/coffee/App.coffee"
 	],
 	"find":
 	{
@@ -391,7 +383,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"limit",
 			"console",
 			"brakeOnCurves",
 			"numBoids",
@@ -483,7 +474,7 @@
 			"namevi"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -506,45 +497,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/05/index.html",
-					"settings":
-					{
-						"buffer_size": 1498,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1336,
-								1336
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "src/App.coffee",
 					"settings":
 					{
-						"buffer_size": 5246,
+						"buffer_size": 6144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4750,
-								4749
+								5996,
+								5996
 							]
 						],
 						"settings":
@@ -553,13 +517,13 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2963.0,
+						"translation.y": 748.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "src/Boid.coffee",
 					"settings":
 					{
@@ -570,8 +534,8 @@
 						"selection":
 						[
 							[
-								4155,
-								4206
+								1084,
+								1084
 							]
 						],
 						"settings":
@@ -580,34 +544,34 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2922.0,
+						"translation.y": 585.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/Bruno/Dropbox/jobs/bruno/experiments/website/05/js/libs/toxi/geom/Vec3D.js",
+					"buffer": 2,
+					"file": "/C/Users/brunoimbrizi/Documents/jobs/bruno/experiments/website/05/index.html",
 					"settings":
 					{
-						"buffer_size": 18836,
+						"buffer_size": 1154,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3463,
-								3670
+								928,
+								928
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2363.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

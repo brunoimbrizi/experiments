@@ -17,4 +17,4 @@ toast 'src'
   httpfolder: ''
   release: '../../website/06/js/main.js'
   debug: '../../website/06/js/main-debug.js'
-  minify: false
+  minify: true
